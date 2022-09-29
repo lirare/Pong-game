@@ -1,0 +1,3 @@
+﻿  pong.cpp
+D:\MyCodes\pong\pong.cpp(101,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  pong.vcxproj -> D:\MyCodes\pong\x64\Debug\pong.exe
